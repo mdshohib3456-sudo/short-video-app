@@ -1,0 +1,7 @@
+{
+  "nnameame": "Nexup",
+  "description": "Nexup - A next-generation short video social platform with full-screen immersive video feed, vertical navigation, upload studio, creator profiles, likes, comments, and audio exploration.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+name
